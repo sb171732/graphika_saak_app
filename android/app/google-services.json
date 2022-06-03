@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513267015854",
+    "project_id": "t123123-d72c8",
+    "storage_bucket": "t123123-d72c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513267015854:android:73f47eae3655f1a4234d3f",
+        "android_client_info": {
+          "package_name": "com.example.graphika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513267015854-us4uicin6p6kcogrnap67i46adbhrstu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqsgyFm2VYdRW--NTmoOcP-ILf7dYbOn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513267015854-us4uicin6p6kcogrnap67i46adbhrstu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
